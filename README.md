@@ -4,4 +4,9 @@ no i did not make this and i would never claim something so shitty
 
 Download at your own risk but i cant be held accountable for the damages this skiddy client might hold within
 Download in the main git under the name WebHack-0.8.jar
+
+
+Another shitty note
+the click gui open key is 0 or O (i cant remember)
+chat suffix is web (not 100% if it is)
 ![alt text](https://cdn.discordapp.com/attachments/920773770585722910/954850265125748796/unknown.png)
