@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "HoleFiller",
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Alpha": 255,
+  "Blocks Per Tick": 10,
+  "Range": 5.0,
+  "Smart range": 2.0,
+  "Rotate": false,
+  "Packet": false
+}

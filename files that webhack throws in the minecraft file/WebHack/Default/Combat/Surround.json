@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "Z",
+  "DisplayName": "Surround",
+  "BlocksPerTick": 9,
+  "Delay": 0,
+  "PacketPlace": true,
+  "Rotate": false
+}

@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "CityESP",
+  "Range": 12,
+  "LineWidth": 1.5,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Alpha": 0,
+  "BoxAlpha": 200
+}

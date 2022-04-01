@@ -1,0 +1,8 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Notify",
+  "ModuleMessage": true,
+  "PopCounter": true
+}

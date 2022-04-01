@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Packetfly",
+  "2Delay": true,
+  "TickDelay": 1,
+  "Speed": 6.0
+}

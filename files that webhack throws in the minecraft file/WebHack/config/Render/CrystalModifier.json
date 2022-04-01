@@ -1,0 +1,17 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "CrystalModifier",
+  "Crystal Chams": false,
+  "Crystal Wireframe": false,
+  "Scale": 1.0,
+  "Linewidth": 1.0,
+  "Rainbow": false,
+  "Saturation": 50,
+  "Speed": 40,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Crystal Alpha": 255
+}

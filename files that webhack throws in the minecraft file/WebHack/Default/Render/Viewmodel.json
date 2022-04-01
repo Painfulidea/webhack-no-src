@@ -1,0 +1,15 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Viewmodel",
+  "SizeX": 1.0,
+  "SizeY": 1.0,
+  "SizeZ": 1.1,
+  "OffsetX": 0.1,
+  "OffsetY": 0.2,
+  "OffsetZ": 0.2,
+  "OffhandX": 0.1,
+  "OffhandY": 0.0,
+  "OffhandZ": 0.0
+}

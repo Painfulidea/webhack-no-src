@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AutoTotem",
+  "Crystal": true,
+  "CrystalHP": 13.0,
+  "CrystalHoleHP": 3.5,
+  "Gapple": true,
+  "ArmorCheck": true,
+  "Packets": 4
+}

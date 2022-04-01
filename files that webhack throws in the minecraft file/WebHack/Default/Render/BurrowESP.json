@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "BurrowESP",
+  "Name": true,
+  "BoxRed": 255,
+  "BoxGreen": 255,
+  "BoxBlue": 255,
+  "BoxAlpha": 127,
+  "Outline": true,
+  "OutlineWidth": 1.0,
+  "CustomOutline": true,
+  "OutlineRed": 255,
+  "OutlineGreen": 255,
+  "OutlineBlue": 255,
+  "OutlineAlpha": 255
+}

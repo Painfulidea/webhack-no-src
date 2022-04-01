@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "CompactInfo",
+  "Rainbow": true,
+  "CompactInfoX": 0,
+  "CompactInfoY": 0,
+  "Red": 20,
+  "Green": 20,
+  "Blue": 20
+}

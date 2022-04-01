@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Flatten",
+  "BlocksPerTick": 8,
+  "Rotate": false,
+  "PacketPlace": false,
+  "AutoDisable": true
+}

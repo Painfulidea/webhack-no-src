@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AntiPiston",
+  "BlocksPerTick": 8,
+  "Delay": 0,
+  "Rotate": true,
+  "PacketPlace": false,
+  "Extra": false,
+  "ExtraExtra": false
+}
